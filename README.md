@@ -35,4 +35,4 @@ Examines average artwork area and the relationship between painting width and he
 
 View the interactive Tableau dashboards here:
 
-[Tableau Public Project](YOUR_TABLEAU_LINK)
+[Tableau Public Project](https://public.tableau.com/app/profile/xenel.islam/vizzes)
