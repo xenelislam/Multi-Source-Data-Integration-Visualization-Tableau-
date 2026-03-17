@@ -6,11 +6,11 @@ Using museum collection metadata, the project explores patterns in manuscript pr
 
 # Key Analyses
 
-Geographic distribution of manuscript production
+- Geographic distribution of manuscript production
 
-Artwork composition across museum collections
+- Artwork composition across museum collections
 
-Page design patterns and dimensional relationships
+- Page design patterns and dimensional relationships
 
 ## Dashboards
 
@@ -43,15 +43,16 @@ This project reflects common real-world analytics workflows where data must be a
 
 ## Key Skills Demonstrated
 
-Data integration (multi-source datasets)
+- Data integration (multi-source datasets)
 
-Data cleaning & transformation
+- Data cleaning & transformation
 
-Exploratory data analysis (EDA)
+- Exploratory data analysis (EDA)
 
-Data visualization & storytelling
+- Data visualization & storytelling
 
-Insight communication for non-technical audiences
+- Insight communication for non-technical audiences
+  
 ## Interactive Dashboard
 
 View the interactive Tableau dashboards here:
