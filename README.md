@@ -19,21 +19,21 @@ Shows manuscript production cities using a geographic bubble map.
 
 ![Map Dashboard](map_dashboard.png)
 
-Key Insight: Manuscript production is heavily concentrated in cities such as Lucknow, Herat, and Shiraz, indicating key regional hubs of artistic activity and suggesting uneven geographic distribution across collections.
+**Key Insight:** Manuscript production is heavily concentrated in cities such as Lucknow, Herat, and Shiraz, indicating key regional hubs of artistic activity and suggesting uneven geographic distribution across collections.
 
 ### Manuscript Artwork Composition Across Museums
 Compares painting, drawing, and calligraphy folios across museum collections.
 
 ![Museum Composition](museum_composition_dashboard.png)
 
-Key Insight: Calligraphy dominates across most collections, while variation in painting and drawing proportions highlights differences in curatorial focus and acquisition patterns across institutions.
+**Key Insight:** Calligraphy dominates across most collections, while variation in painting and drawing proportions highlights differences in curatorial focus and acquisition patterns across institutions.
 
 ### Manuscript Page Design Patterns
 Examines average artwork area and the relationship between painting width and height.
 
 ![Page Design](page_design_dashboard.png)
 
-Key Insight: A strong positive relationship between painting width and height suggests standardized proportions in manuscript design, while differences in average artwork area indicate variation in stylistic or functional use across types.
+**Key Insight:** A strong positive relationship between painting width and height suggests standardized proportions in manuscript design, while differences in average artwork area indicate variation in stylistic or functional use across types.
 
 ## Tools & Technologies
 
